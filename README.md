@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Aryan-ui0/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aryan-ui0/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Aryan-ui0/Leetcode/tree/master/0724-find-pivot-index) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Aryan-ui0/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aryan-ui0/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aryan-ui0/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aryan-ui0/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Aryan-ui0/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aryan-ui0/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Aryan-ui0/Leetcode/tree/master/0724-find-pivot-index) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Aryan-ui0/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aryan-ui0/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Aryan-ui0/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
