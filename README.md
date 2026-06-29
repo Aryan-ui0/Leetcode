@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/Aryan-ui0/Leetcode/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/Aryan-ui0/Leetcode/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/Aryan-ui0/Leetcode/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/Aryan-ui0/Leetcode/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
