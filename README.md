@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Aryan-ui0/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0525-contiguous-array](https://github.com/Aryan-ui0/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aryan-ui0/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Aryan-ui0/Leetcode/tree/master/0724-find-pivot-index) |
@@ -94,5 +95,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Aryan-ui0/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aryan-ui0/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Aryan-ui0/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Aryan-ui0/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Aryan-ui0/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
