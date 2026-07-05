@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aryan-ui0/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aryan-ui0/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aryan-ui0/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Aryan-ui0/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aryan-ui0/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aryan-ui0/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Aryan-ui0/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Aryan-ui0/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Aryan-ui0/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Dynamic Programming
 |  |
