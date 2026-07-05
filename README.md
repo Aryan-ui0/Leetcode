@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Aryan-ui0/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0844-backspace-string-compare](https://github.com/Aryan-ui0/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aryan-ui0/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Aryan-ui0/Leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aryan-ui0/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Aryan-ui0/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Aryan-ui0/Leetcode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Aryan-ui0/Leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Sliding Window
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Aryan-ui0/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/Aryan-ui0/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/Aryan-ui0/Leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Bit Manipulation
 |  |
 | ------- |
