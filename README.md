@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Aryan-ui0/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0844-backspace-string-compare](https://github.com/Aryan-ui0/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aryan-ui0/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/Aryan-ui0/Leetcode/tree/master/1089-duplicate-zeros) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aryan-ui0/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Aryan-ui0/Leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Divide and Conquer
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Aryan-ui0/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Aryan-ui0/Leetcode/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aryan-ui0/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1089-duplicate-zeros](https://github.com/Aryan-ui0/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1331-rank-transform-of-an-array](https://github.com/Aryan-ui0/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Aryan-ui0/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aryan-ui0/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
