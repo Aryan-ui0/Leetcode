@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aryan-ui0/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aryan-ui0/Leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Aryan-ui0/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Aryan-ui0/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aryan-ui0/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aryan-ui0/Leetcode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Aryan-ui0/Leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Aryan-ui0/Leetcode/tree/master/0148-sort-list) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aryan-ui0/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Aryan-ui0/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aryan-ui0/Leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Aryan-ui0/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Aryan-ui0/Leetcode/tree/master/0042-trapping-rain-water) |
