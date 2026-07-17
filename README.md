@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Aryan-ui0/Leetcode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryan-ui0/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Aryan-ui0/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/Aryan-ui0/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/Aryan-ui0/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aryan-ui0/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Aryan-ui0/Leetcode/tree/master/1089-duplicate-zeros) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/Aryan-ui0/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Aryan-ui0/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aryan-ui0/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Aryan-ui0/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryan-ui0/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aryan-ui0/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Aryan-ui0/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/Aryan-ui0/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Stack
 |  |
 | ------- |
