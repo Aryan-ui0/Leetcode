@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Aryan-ui0/Leetcode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryan-ui0/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Aryan-ui0/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/Aryan-ui0/Leetcode/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/Aryan-ui0/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/Aryan-ui0/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aryan-ui0/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Aryan-ui0/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0443-string-compression](https://github.com/Aryan-ui0/Leetcode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Aryan-ui0/Leetcode/tree/master/0520-detect-capital) |
 | [0844-backspace-string-compare](https://github.com/Aryan-ui0/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aryan-ui0/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
