@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Aryan-ui0/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Aryan-ui0/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Aryan-ui0/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0334-increasing-triplet-subsequence](https://github.com/Aryan-ui0/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aryan-ui0/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/Aryan-ui0/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aryan-ui0/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Aryan-ui0/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Aryan-ui0/Leetcode/tree/master/0605-can-place-flowers) |
 | [1529-minimum-suffix-flips](https://github.com/Aryan-ui0/Leetcode/tree/master/1529-minimum-suffix-flips) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aryan-ui0/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
