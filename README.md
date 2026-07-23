@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aryan-ui0/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aryan-ui0/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aryan-ui0/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Aryan-ui0/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Aryan-ui0/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aryan-ui0/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aryan-ui0/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aryan-ui0/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aryan-ui0/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aryan-ui0/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Aryan-ui0/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aryan-ui0/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aryan-ui0/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aryan-ui0/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
