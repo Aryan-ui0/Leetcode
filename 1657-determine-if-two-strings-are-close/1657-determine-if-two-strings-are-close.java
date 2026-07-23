@@ -11,7 +11,6 @@ class Solution {
         for(char ch : word2.toCharArray()){
             map2.put(ch,map2.getOrDefault(ch,0)+1);
         }
-        if(map1.size()!=map2.size()) return false;
         if(!(map1.keySet().equals(map2.keySet()))) return false;
 
         for(int count : map1.values()){
@@ -22,7 +21,6 @@ class Solution {
         }
         Collections.sort(one);
         Collections.sort(two);
-        if(one.equals(two)) return true;
-        else return false;
+        return one.equals(two);
     }
 }
