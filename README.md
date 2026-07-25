@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Aryan-ui0/Leetcode/tree/master/0443-string-compression) |
 | [0633-sum-of-square-numbers](https://github.com/Aryan-ui0/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/Aryan-ui0/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0881-boats-to-save-people](https://github.com/Aryan-ui0/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aryan-ui0/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Aryan-ui0/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aryan-ui0/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Aryan-ui0/Leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Aryan-ui0/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Aryan-ui0/Leetcode/tree/master/0169-majority-element) |
+| [0881-boats-to-save-people](https://github.com/Aryan-ui0/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aryan-ui0/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Aryan-ui0/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Aryan-ui0/Leetcode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Aryan-ui0/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Aryan-ui0/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Aryan-ui0/Leetcode/tree/master/0739-daily-temperatures) |
+| [0881-boats-to-save-people](https://github.com/Aryan-ui0/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aryan-ui0/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryan-ui0/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1089-duplicate-zeros](https://github.com/Aryan-ui0/Leetcode/tree/master/1089-duplicate-zeros) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Aryan-ui0/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Aryan-ui0/Leetcode/tree/master/0605-can-place-flowers) |
+| [0881-boats-to-save-people](https://github.com/Aryan-ui0/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1529-minimum-suffix-flips](https://github.com/Aryan-ui0/Leetcode/tree/master/1529-minimum-suffix-flips) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aryan-ui0/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
