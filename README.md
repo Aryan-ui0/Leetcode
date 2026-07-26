@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Aryan-ui0/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/Aryan-ui0/Leetcode/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/Aryan-ui0/Leetcode/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/Aryan-ui0/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryan-ui0/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Aryan-ui0/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Aryan-ui0/Leetcode/tree/master/0443-string-compression) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Aryan-ui0/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0151-reverse-words-in-a-string](https://github.com/Aryan-ui0/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/Aryan-ui0/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0443-string-compression](https://github.com/Aryan-ui0/Leetcode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Aryan-ui0/Leetcode/tree/master/0520-detect-capital) |
