@@ -1,33 +1,27 @@
 class Solution {
-    public boolean pal(String s,int left, int right){
-        while(left<right){
-            if(s.charAt(left)!=s.charAt(right)){
+    public boolean pal(String s, int l,int r){
+        while(l<r){
+            if(s.charAt(l)!=s.charAt(r)){
                 return false;
             }
-            left++;
-            right--;
+            l++;
+            r--;
         }
         return true;
     }
     public boolean validPalindrome(String s) {
-        int n = s.length();
-        int left = 0;
-        int right = n-1;
-        int count = 0;
+        int l = 0;
+        int r = s.length()-1;
         boolean res = true;
-        while(left<=right){
-            if(s.charAt(left)==s.charAt(right)){
-                left++;
-                right--;
-            }
-            else if(s.charAt(left)!=s.charAt(right)){
-                if(pal(s,left+1,right) || pal(s,left,right-1)) return true;
+        while(l<r){
+            if(s.charAt(l)!=s.charAt(r)){
+                if(pal(s,l+1,r) || pal(s,l,r-1)){
+                    return true;
+                }
                 else return false;
-
             }
-
-            
-            
+            l++;
+            r--;
         }
         return res;
     }
