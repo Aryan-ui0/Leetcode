@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aryan-ui0/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aryan-ui0/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aryan-ui0/Leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Aryan-ui0/Leetcode/tree/master/0027-remove-element) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aryan-ui0/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Aryan-ui0/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aryan-ui0/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aryan-ui0/Leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Aryan-ui0/Leetcode/tree/master/0027-remove-element) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aryan-ui0/Leetcode/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/Aryan-ui0/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/Aryan-ui0/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Aryan-ui0/Leetcode/tree/master/0605-can-place-flowers) |
