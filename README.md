@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Aryan-ui0/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Aryan-ui0/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Aryan-ui0/Leetcode/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/Aryan-ui0/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Aryan-ui0/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0896-monotonic-array](https://github.com/Aryan-ui0/Leetcode/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aryan-ui0/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Aryan-ui0/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan-ui0/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Aryan-ui0/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/Aryan-ui0/Leetcode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aryan-ui0/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Aryan-ui0/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aryan-ui0/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aryan-ui0/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0486-predict-the-winner](https://github.com/Aryan-ui0/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Aryan-ui0/Leetcode/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aryan-ui0/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Aryan-ui0/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Hash Table
@@ -319,4 +322,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Aryan-ui0/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Aryan-ui0/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
