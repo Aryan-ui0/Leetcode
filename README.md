@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Aryan-ui0/Leetcode/tree/master/0069-sqrtx) |
 | [0486-predict-the-winner](https://github.com/Aryan-ui0/Leetcode/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/Aryan-ui0/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan-ui0/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Aryan-ui0/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Aryan-ui0/Leetcode/tree/master/0877-stone-game) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aryan-ui0/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0486-predict-the-winner](https://github.com/Aryan-ui0/Leetcode/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/Aryan-ui0/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Aryan-ui0/Leetcode/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aryan-ui0/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Aryan-ui0/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -318,9 +320,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Aryan-ui0/Leetcode/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/Aryan-ui0/Leetcode/tree/master/0509-fibonacci-number) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Aryan-ui0/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aryan-ui0/Leetcode/tree/master/0877-stone-game) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Aryan-ui0/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
