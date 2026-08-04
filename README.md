@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Aryan-ui0/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/Aryan-ui0/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Aryan-ui0/Leetcode/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/Aryan-ui0/Leetcode/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryan-ui0/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Aryan-ui0/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aryan-ui0/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Aryan-ui0/Leetcode/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Aryan-ui0/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aryan-ui0/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Trie
@@ -333,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Aryan-ui0/Leetcode/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Aryan-ui0/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
