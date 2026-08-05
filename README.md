@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Aryan-ui0/Leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Aryan-ui0/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Aryan-ui0/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Aryan-ui0/Leetcode/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/Aryan-ui0/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Aryan-ui0/Leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Aryan-ui0/Leetcode/tree/master/0078-subsets) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Aryan-ui0/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Aryan-ui0/Leetcode/tree/master/0078-subsets) |
 ## String Matching
 |  |
