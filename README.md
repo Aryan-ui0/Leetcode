@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aryan-ui0/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0131-palindrome-partitioning](https://github.com/Aryan-ui0/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/Aryan-ui0/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Aryan-ui0/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Aryan-ui0/Leetcode/tree/master/0877-stone-game) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryan-ui0/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/Aryan-ui0/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/Aryan-ui0/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Aryan-ui0/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/Aryan-ui0/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0443-string-compression](https://github.com/Aryan-ui0/Leetcode/tree/master/0443-string-compression) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Aryan-ui0/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Aryan-ui0/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Aryan-ui0/Leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Aryan-ui0/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## String Matching
 |  |
 | ------- |
