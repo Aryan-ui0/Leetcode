@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Aryan-ui0/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Aryan-ui0/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Aryan-ui0/Leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Aryan-ui0/Leetcode/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Aryan-ui0/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Aryan-ui0/Leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Aryan-ui0/Leetcode/tree/master/0078-subsets) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Aryan-ui0/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Aryan-ui0/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Aryan-ui0/Leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Aryan-ui0/Leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Aryan-ui0/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Aryan-ui0/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Aryan-ui0/Leetcode/tree/master/0090-subsets-ii) |
@@ -393,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aryan-ui0/Leetcode/tree/master/0022-generate-parentheses) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Aryan-ui0/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
