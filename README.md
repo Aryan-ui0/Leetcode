@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aryan-ui0/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Aryan-ui0/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3843-first-element-with-unique-frequency](https://github.com/Aryan-ui0/Leetcode/tree/master/3843-first-element-with-unique-frequency) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Aryan-ui0/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aryan-ui0/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Aryan-ui0/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aryan-ui0/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Aryan-ui0/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
