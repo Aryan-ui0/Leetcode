@@ -9,7 +9,8 @@ class Solution {
     }
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> res = new ArrayList<>();
-        backtrack(0,nums,new ArrayList<>(),res);
+        List<Integer> curr = new ArrayList<>();
+        backtrack(0,nums,curr,res);
         return res;
     }
 }
