@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Aryan-ui0/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Aryan-ui0/Leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Aryan-ui0/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Aryan-ui0/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Aryan-ui0/Leetcode/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryan-ui0/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Aryan-ui0/Leetcode/tree/master/0169-majority-element) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Aryan-ui0/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryan-ui0/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/Aryan-ui0/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Aryan-ui0/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Aryan-ui0/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Aryan-ui0/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/Aryan-ui0/Leetcode/tree/master/0316-remove-duplicate-letters) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Aryan-ui0/Leetcode/tree/master/0079-word-search) |
 | [2352-equal-row-and-column-pairs](https://github.com/Aryan-ui0/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Counting Sort
 |  |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Aryan-ui0/Leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Aryan-ui0/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Aryan-ui0/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Aryan-ui0/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Aryan-ui0/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Aryan-ui0/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## String Matching
@@ -409,4 +413,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/Aryan-ui0/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Aryan-ui0/Leetcode/tree/master/0052-n-queens-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Aryan-ui0/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
