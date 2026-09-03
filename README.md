@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Aryan-ui0/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Aryan-ui0/Leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Aryan-ui0/Leetcode/tree/master/0027-remove-element) |
+| [0037-sudoku-solver](https://github.com/Aryan-ui0/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Aryan-ui0/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aryan-ui0/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Aryan-ui0/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aryan-ui0/Leetcode/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Aryan-ui0/Leetcode/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Aryan-ui0/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Aryan-ui0/Leetcode/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aryan-ui0/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Aryan-ui0/Leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Aryan-ui0/Leetcode/tree/master/0079-word-search) |
 | [2352-equal-row-and-column-pairs](https://github.com/Aryan-ui0/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Counting Sort
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aryan-ui0/Leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Aryan-ui0/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Aryan-ui0/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aryan-ui0/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Aryan-ui0/Leetcode/tree/master/0046-permutations) |
@@ -411,10 +415,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Aryan-ui0/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Aryan-ui0/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Aryan-ui0/Leetcode/tree/master/0052-n-queens-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Aryan-ui0/Leetcode/tree/master/0079-word-search) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Aryan-ui0/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
