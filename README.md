@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Aryan-ui0/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1089-duplicate-zeros](https://github.com/Aryan-ui0/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/Aryan-ui0/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1219-path-with-maximum-gold](https://github.com/Aryan-ui0/Leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1331-rank-transform-of-an-array](https://github.com/Aryan-ui0/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Aryan-ui0/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan-ui0/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Aryan-ui0/Leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Aryan-ui0/Leetcode/tree/master/0079-word-search) |
 | [0980-unique-paths-iii](https://github.com/Aryan-ui0/Leetcode/tree/master/0980-unique-paths-iii) |
+| [1219-path-with-maximum-gold](https://github.com/Aryan-ui0/Leetcode/tree/master/1219-path-with-maximum-gold) |
 | [2352-equal-row-and-column-pairs](https://github.com/Aryan-ui0/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Counting Sort
 |  |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Aryan-ui0/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Aryan-ui0/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0980-unique-paths-iii](https://github.com/Aryan-ui0/Leetcode/tree/master/0980-unique-paths-iii) |
+| [1219-path-with-maximum-gold](https://github.com/Aryan-ui0/Leetcode/tree/master/1219-path-with-maximum-gold) |
 ## String Matching
 |  |
 | ------- |
