@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0086-partition-list](https://github.com/Aryan-ui0/Leetcode/tree/master/0086-partition-list) |
 | [0148-sort-list](https://github.com/Aryan-ui0/Leetcode/tree/master/0148-sort-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Aryan-ui0/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Aryan-ui0/Leetcode/tree/master/0079-word-search) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Aryan-ui0/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Dancing Links
 |  |
 | ------- |
@@ -442,4 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/Aryan-ui0/Leetcode/tree/master/0980-unique-paths-iii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Aryan-ui0/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
