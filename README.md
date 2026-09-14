@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Aryan-ui0/Leetcode/tree/master/0079-word-search) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Aryan-ui0/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Aryan-ui0/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Dancing Links
 |  |
@@ -457,4 +458,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Aryan-ui0/Leetcode/tree/master/0141-linked-list-cycle) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Aryan-ui0/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Aryan-ui0/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Aryan-ui0/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
