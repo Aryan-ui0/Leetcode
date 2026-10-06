@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Aryan-ui0/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/Aryan-ui0/Leetcode/tree/master/0980-unique-paths-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aryan-ui0/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/Aryan-ui0/Leetcode/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/Aryan-ui0/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/Aryan-ui0/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1219-path-with-maximum-gold](https://github.com/Aryan-ui0/Leetcode/tree/master/1219-path-with-maximum-gold) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Aryan-ui0/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [1046-last-stone-weight](https://github.com/Aryan-ui0/Leetcode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aryan-ui0/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
 |  |
