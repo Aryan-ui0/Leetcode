@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Aryan-ui0/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Aryan-ui0/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Aryan-ui0/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0301-remove-invalid-parentheses](https://github.com/Aryan-ui0/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/Aryan-ui0/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0443-string-compression](https://github.com/Aryan-ui0/Leetcode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Aryan-ui0/Leetcode/tree/master/0520-detect-capital) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Aryan-ui0/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Aryan-ui0/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Aryan-ui0/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/Aryan-ui0/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0980-unique-paths-iii](https://github.com/Aryan-ui0/Leetcode/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/Aryan-ui0/Leetcode/tree/master/1219-path-with-maximum-gold) |
 ## String Matching
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aryan-ui0/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Aryan-ui0/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Aryan-ui0/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Aryan-ui0/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Aryan-ui0/Leetcode/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Aryan-ui0/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Aryan-ui0/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
