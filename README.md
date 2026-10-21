@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aryan-ui0/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3597-partition-string](https://github.com/Aryan-ui0/Leetcode/tree/master/3597-partition-string) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Aryan-ui0/Leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Aryan-ui0/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
 |  |
 | ------- |
