@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aryan-ui0/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aryan-ui0/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aryan-ui0/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Aryan-ui0/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aryan-ui0/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aryan-ui0/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aryan-ui0/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Aryan-ui0/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0980-unique-paths-iii](https://github.com/Aryan-ui0/Leetcode/tree/master/0980-unique-paths-iii) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Aryan-ui0/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Aryan-ui0/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aryan-ui0/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Trie
 |  |
