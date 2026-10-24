@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Aryan-ui0/Leetcode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aryan-ui0/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Aryan-ui0/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2409-count-days-spent-together](https://github.com/Aryan-ui0/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aryan-ui0/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Aryan-ui0/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aryan-ui0/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Aryan-ui0/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Aryan-ui0/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Aryan-ui0/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/Aryan-ui0/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Aryan-ui0/Leetcode/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aryan-ui0/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aryan-ui0/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
