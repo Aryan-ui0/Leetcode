@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aryan-ui0/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aryan-ui0/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Aryan-ui0/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/Aryan-ui0/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aryan-ui0/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aryan-ui0/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aryan-ui0/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Aryan-ui0/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Aryan-ui0/Leetcode/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aryan-ui0/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3665-twisted-mirror-path-count](https://github.com/Aryan-ui0/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Aryan-ui0/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Hash Table
 |  |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Aryan-ui0/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2352-equal-row-and-column-pairs](https://github.com/Aryan-ui0/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aryan-ui0/Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Aryan-ui0/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Counting Sort
 |  |
 | ------- |
