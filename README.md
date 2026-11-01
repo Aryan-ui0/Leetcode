@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Aryan-ui0/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Aryan-ui0/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aryan-ui0/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Aryan-ui0/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Aryan-ui0/Leetcode/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/Aryan-ui0/Leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aryan-ui0/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Aryan-ui0/Leetcode/tree/master/0069-sqrtx) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Aryan-ui0/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Aryan-ui0/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Aryan-ui0/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aryan-ui0/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
